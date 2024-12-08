@@ -77,8 +77,8 @@ Skor akhir akan dibandingkan dengan ambang batas, dan keputusan kredit akan dibe
 
 Proyek ini dikembangkan oleh Kelompok 8:
 
-- Maulana Fikri - 2208107010042
-- Muhammad Raza Adzani - 2208107010066
+- Ammar Qurthuby - 2208107010031
+- TM Fadlul Ihsan - 22081070100
 
 ##Kesimpulan
 
