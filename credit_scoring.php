@@ -23,7 +23,7 @@ function calculateCreditScore($age, $maritalStatus, $dependents, $occupation, $c
 
     // Pekerjaan
     $highScoreJobs = ['PNS', 'Jaksa', 'Dosen', 'Dokter', 'Bidan', 'Pengacara', 'Wiraswasta Besar'];
-    $mediumScoreJobs = ['Karyawan Te', 'Guru Sertifikasi', 'Wiraswasta Menengah', 'Pensiun'];
+    $mediumScoreJobs = ['Karyawan Tetap', 'Guru Sertifikasi', 'Wiraswasta Menengah', 'Pensiun'];
     $lowScoreJobs = ['Karyawan Kontrak', 'Karyawan Harian', 'Wiraswasta Kecil', 'Guru honor', 'Petani'];
     $veryLowScoreJobs = ['Asisten rumah tangga', 'Ibu rumah tangga', 'Pelajar/Mahasiswa', 'Tidak bekerja'];
 
