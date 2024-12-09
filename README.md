@@ -78,7 +78,7 @@ Skor akhir akan dibandingkan dengan ambang batas, dan keputusan kredit akan dibe
 Proyek ini dikembangkan oleh Kelompok 8:
 
 - Ammar Qurthuby - 2208107010031
-- TM Fadlul Ihsan - 22081070100
+- TM Fadlul Ihsan - 2208107010088
 
 ##Kesimpulan
 
