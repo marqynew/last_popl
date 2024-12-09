@@ -28,7 +28,7 @@
 Pertama, clone repository dari GitHub ke dalam direktori lokal Anda.
 
 ```bash
-
+https://github.com/marqynew/last_popl.git
 ```
 
 ## 2. Pindahkan ke Direktori htdocs
