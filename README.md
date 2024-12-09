@@ -28,7 +28,7 @@
 Pertama, clone repository dari GitHub ke dalam direktori lokal Anda.
 
 ```bash
-https://github.com/Razaaaaa27/sistem-penentuan-pemberian-kredit.git
+
 ```
 
 ## 2. Pindahkan ke Direktori htdocs
